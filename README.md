@@ -1,16 +1,26 @@
-# provider_app
+# Flutter   an appication for viewing and selling anime.
+## Developer Hussein Faisal Ali || حسين فيصل علي 
 
-A new Flutter project.
+#a بناء تطبيق وموقع  عرض وبيع الانميات 
 
-## Getting Started
+![LoginScrren](https://raw.githubusercontent.com/Hussein-Al-dahbali/Login_Screen/master/Login_Screen/LoginScrren.png)
+###
 
-This project is a starting point for a Flutter application.
+33
+![Valid](https://raw.githubusercontent.com/Hussein-Al-dahbali/Login_Screen/master/Login_Screen/Valid.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Password_valid](https://raw.githubusercontent.com/Hussein-Al-dahbali/Login_Screen/master/Login_Screen/Password_valid.png)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](https://raw.githubusercontent.com/Hussein-Al-dahbali/Login_Screen/master/Login_Screen/Home.png)
+
+###
+
+
+
+
+
+
+
+
